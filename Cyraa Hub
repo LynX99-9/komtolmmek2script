@@ -1,7 +1,12 @@
-local Games = loadstring(game:HttpGet("https://raw.githubusercontent.com/LynX99-9/komtolmmek2script/refs/heads/main/GameList"))()
+repeat task.wait() until game.Players.LocalPlayer and game.Players.LocalPlayer.Character
+if not game:IsLoaded() then game.Loaded:Wait() end
+
+local Games = loadstring(game:HttpGet("https://raw.githubusercontent.com/LynX99-9/komtolmmek2script/refs/heads/main/GameList", true))()
 
 local URL = Games[game.PlaceId]
 
 if URL then
-  loadstring(game:HttpGet(URL))()
+    loadstring(game:HttpGet(URL, true))()
+else
+    game.Players.LocalPlayer:Kick("Yo! This game ain't on the list.\nCheck the Discord for whitelisted games, bro.")
 end
