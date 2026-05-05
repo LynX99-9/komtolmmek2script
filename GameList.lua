@@ -1,5 +1,8 @@
 local games = {
     [131378148336503] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Drag%20Drive%20simulator",
+    [114862923457266] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Drag%20Drive%20simulator",
+    [122318572211216] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Drag%20Drive%20simulator",
+    [114069860751320] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Drag%20Drive%20simulator",
     [131623223084840] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Escape%20Tsunami%20For%20Brainrots!",
     [119987266683883] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Survive%20lava%20for%20brainroot",
     [72167803024670]  = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Find%20Who%20Slapped",
