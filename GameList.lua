@@ -13,7 +13,7 @@ local games = {
     [89469502395769]  = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/kick%20a%20lucky%20block",
     [131346454575416]  = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/mini%20war",
     [107095834793267] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Oil%20empire",
-    [104119360583174] = "",
+    [104119360583174] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Kick%20a%20LatamBlock",
 }
 
 return games
