@@ -18,6 +18,7 @@ local games = {
     [136066387156306] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Be%20A%20flash%20for%20brainrots",
     [114204398207377] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Survivve%20Zombie%20Arena",
     [98927955463992] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Survivve%20Zombie%20Arena",
+    [95082159892680] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/%2B1%20SKE",
 }
 
 return games
