@@ -19,7 +19,8 @@ local games = {
     [114204398207377] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Survivve%20Zombie%20Arena",
     [98927955463992] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Survivve%20Zombie%20Arena",
     [95082159892680] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/%2B1%20SKE",
-    [129118369937980] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Eagle%20Nation"
+    [129118369937980] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Eagle%20Nation",
+    [136801880565837] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Flick",
 }
 
 return games
