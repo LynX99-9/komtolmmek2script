@@ -21,6 +21,7 @@ local games = {
     [95082159892680] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/%2B1%20SKE",
     [129118369937980] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Eagle%20Nation",
     [136801880565837] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Flick",
+    [107646426076756] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Build%20a%20Ring%20farm",
 }
 
 return games
