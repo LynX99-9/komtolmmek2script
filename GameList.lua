@@ -23,12 +23,12 @@ local games = {
     [136801880565837] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Flick",
     [107646426076756] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Build%20a%20Ring%20farm",
     [79268393072444] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Sell%20Lemons",
-    [17625359962] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Rivals",
-    [117398147513099] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Rivals",
-    [129604661913557] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Rivals",
-    [133215910299950] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Rivals",
-    [18126510175] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Rivals",
-    [71874690745115] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Rivals",
+    [17625359962] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2scriptt/refs/heads/main/Rivals",
+    [117398147513099] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2scriptt/refs/heads/main/Rivals",
+    [129604661913557] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2scriptt/refs/heads/main/Rivals",
+    [133215910299950] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2scriptt/refs/heads/main/Rivals",
+    [18126510175] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2scriptt/refs/heads/main/Rivals",
+    [71874690745115] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2scriptt/refs/heads/main/Rivals",
 }
 
 return games
