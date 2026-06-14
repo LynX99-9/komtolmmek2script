@@ -29,6 +29,7 @@ local games = {
     [133215910299950] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2scriptt/refs/heads/main/Rivals",
     [18126510175] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2scriptt/refs/heads/main/Rivals",
     [71874690745115] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2scriptt/refs/heads/main/Rivals",
+    [97598239454123] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/GAG2",
 }
 
 return games
