@@ -34,6 +34,8 @@ local games = {
     [113840348235813] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Evomon",
     [140185916293449] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Evomon",
     [132257643340661] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Evomon",
+    [78515283254292] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Animal%20Hospital",
+    [104522435597696] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Animal%20Hospital",
 }
 
 return games
