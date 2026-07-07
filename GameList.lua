@@ -12,6 +12,7 @@ local games = {
     [136919941417380] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Bike%20obby%20for%20brainroots",
     [89469502395769]  = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/kick%20a%20lucky%20block",
     [131346454575416]  = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/mini%20war",
+    [123064301391841] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/mini%20war",
     [107095834793267] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Oil%20empire",
     [104119360583174] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Kick%20a%20LatamBlock",
     [92416421522960] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Slime%20Rng",
