@@ -38,6 +38,8 @@ local games = {
     [132257643340661] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Evomon",
     [78515283254292] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Animal%20Hospital",
     [104522435597696] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Animal%20Hospital",
+    [90568084448279] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/One%20tap",
+    [85207102870777] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/One%20tap",
 }
 
 return games
