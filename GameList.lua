@@ -45,6 +45,10 @@ local games = {
     [116252482079104] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Missiles%20vs%20Cities",
     [94640181989498] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Grow%20a%20Chiken%20Fighter",
     [99702578544768] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/BeaFishBait",
+    [115681808123944] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Throw%20a%20coin",
+    [72042130041700] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Throw%20a%20coin",
+    [100875131717601] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Throw%20a%20coin",
+    [133532393038434] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Throw%20a%20coin",
 }
 
 return games
