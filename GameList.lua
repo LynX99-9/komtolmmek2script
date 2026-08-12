@@ -55,6 +55,8 @@ local games = {
     [335132309] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/mm2",
     [80469437126309] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/mm2",
     [137233438285284] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Chiken%20Farm",
+    [139802517550914] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/100%20Day%20At%20Sea",
+    [70411440483149] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/100%20Day%20At%20Sea",
 }
 
 return games
