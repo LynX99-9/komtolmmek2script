@@ -61,6 +61,8 @@ local games = {
     [110806816173057] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/%2B1%20Damage%20Per%20Revive",
     [130632380701371]  = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/%2B1%20Damage%20Per%20Revive",
     [127089247654125] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/TR%20Legacy",
+    [83313403604499] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Noob%20Empire",
+    [96015987412914] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Noob%20Empire",
 }
 
 return games
