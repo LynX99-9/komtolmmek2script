@@ -63,6 +63,8 @@ local games = {
     [127089247654125] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/TR%20Legacy",
     [83313403604499] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Noob%20Empire",
     [96015987412914] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Noob%20Empire",
+    [96401370703274] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Climb%20And%20Drop%20A%20Lucky%20block",
+    [] = "",
 }
 
 return games
