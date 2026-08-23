@@ -64,7 +64,7 @@ local games = {
     [83313403604499] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Noob%20Empire",
     [96015987412914] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Noob%20Empire",
     [96401370703274] = "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Climb%20And%20Drop%20A%20Lucky%20block",
-    [] = "",
+    [105954652742326] = "https://github.com/LynX99-9/komtolmmek2/blob/main/Mutant%20Plants%3A%20Base%20Defense",
 }
 
 return games
